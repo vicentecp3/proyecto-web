@@ -31,7 +31,5 @@ proyecto-web
 ![Screenshot_20240925_114958](https://github.com/user-attachments/assets/6e47e9a6-65ab-4c48-af0d-9bbfb13eaf12)
 ### Cambiando a la rama main y haciendo la fusion con footer
 ![Screenshot_20240925_122516](https://github.com/user-attachments/assets/12104920-3092-4c59-bbb3-4ba59139d5f7)
-### Tuvimos conflictos y lo arreglamos manualmente, quitando esos conflictos para que se quedara con la fusion 
-### entre header y footer, seguidamente los volvimos a subir con un commit y un push y para terminar, se realizo un 
-### pull para tener los ultimos cambios
+### Tuvimos conflictos y lo arreglamos manualmente, quitando esos conflictos para que se quedara con la fusion entre header y footer, seguidamente los volvimos a subir con un commit y un push y para terminar, se realizo un pull para tener los ultimos cambios
 ![Screenshot_20240925_122610](https://github.com/user-attachments/assets/2b253508-4d5b-4c9c-bd43-9a1c17423df6)
