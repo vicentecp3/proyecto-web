@@ -16,3 +16,5 @@ proyecto-web
 ![git4](https://github.com/user-attachments/assets/7c87d913-eab1-46fa-af59-63a6aac62e19)
 ![Screenshot_20240925_115137](https://github.com/user-attachments/assets/6f803589-ee89-4eda-a206-a2687ea0c7e1)
 ![Screenshot_20240925_114958](https://github.com/user-attachments/assets/6e47e9a6-65ab-4c48-af0d-9bbfb13eaf12)
+![Screenshot_20240925_122516](https://github.com/user-attachments/assets/12104920-3092-4c59-bbb3-4ba59139d5f7)
+![Screenshot_20240925_122610](https://github.com/user-attachments/assets/2b253508-4d5b-4c9c-bd43-9a1c17423df6)
