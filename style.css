@@ -1,3 +1,6 @@
 h1{
     font-style: oblique;
 }
+body { 
+    background-image: radial-gradient(circle at 50% 50%, #74c9fd 0, #1eaef3 50%, #0093e9 100%);
+ }
